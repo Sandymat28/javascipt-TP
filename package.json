@@ -1,0 +1,21 @@
+{
+  "name": "javacript-dom",
+  "version": "1.0.0",
+  "description": "Bienvenue dans le projet Shopifya, un projet de site e-commerce de vente de chapeaux créé dans le cadre du cours YouTube sur le DOM sur la chaîne [DrcMind](https://www.youtube.com/drcmind). Ce projet est conçu avec les langages HTML, CSS et JavaScript pour vous aider à comprendre le fonctionnement du Document Object Model (DOM) et à créer un site web interactif.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "keywords": ["DOM", "e-commerce", "HTML", "CSS", "JavaScript"],
+  "author": "Someone",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sandymat28/shopifya"
+  }
+}
